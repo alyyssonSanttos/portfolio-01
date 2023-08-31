@@ -1,0 +1,13 @@
+.projects {
+    /* text-align: justify;
+    margin-left: 75px; */
+    text-align: center;
+}
+
+.projects h1 {
+    font-size: 45px;
+}
+
+.projects img {
+    border-radius: 20px;
+}
